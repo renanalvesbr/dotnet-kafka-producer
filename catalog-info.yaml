@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: dotnet-kafka-producer
+  annotations:
+    github.com/project-slug: renanalvesmedina/dotnet-kafka-producer
+spec:
+  type: other
+  lifecycle: unknown
+  owner: coe
